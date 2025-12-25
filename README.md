@@ -45,9 +45,10 @@ IDE / Code Editor: Visual Studio Code (VS Code) recommended for development and 
 
 ### OUTPUT:
 <img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/52a850c3-20e1-468f-b76f-aa610faf42f6" />
-![O2](https://github.com/user-attachments/assets/fbf0ef05-1964-4b36-9c62-d798dd4b09dc)
-![O3](https://github.com/user-attachments/assets/4f310f64-198b-45c1-a535-87665095b6a4)
-![O4](https://github.com/user-attachments/assets/899c4cfd-e6ee-45ea-839a-f66768a99745)
+<img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/9de14d89-96cd-4f2f-a1ca-808f219a0bbf" />
+
+<img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/35045802-6252-41e8-8376-8336fd73ef30" />
+
 
 
 ### Results and Impact
