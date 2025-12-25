@@ -45,9 +45,10 @@ IDE / Code Editor: Visual Studio Code (VS Code) recommended for development and 
 
 ### OUTPUT:
 <img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/52a850c3-20e1-468f-b76f-aa610faf42f6" />
-![WhatsApp Image 2025-12-22 at 6 15 38 PM](https://github.com/user-attachments/assets/acdf1070-ff9e-412a-bcf3-55a3e4cfea8b)
-![WhatsApp Image 2025-12-22 at 6 15 38 PM](https://github.com/user-attachments/assets/e8f6755d-682b-47f4-a2f7-24acac2abbc3)
-![WhatsApp Image 2025-12-22 at 6 15 03 PM](https://github.com/user-attachments/assets/1d80c0dd-0f0f-4c64-a36c-2dafef98f73d)
+![O2](https://github.com/user-attachments/assets/fbf0ef05-1964-4b36-9c62-d798dd4b09dc)
+![O3](https://github.com/user-attachments/assets/4f310f64-198b-45c1-a535-87665095b6a4)
+![O4](https://github.com/user-attachments/assets/899c4cfd-e6ee-45ea-839a-f66768a99745)
+
 
 ### Results and Impact
 Efficient Information Retrieval from Educational Videos Using AI-Based Transcription and Summarization automates the extraction of key information from educational videos. The system quickly converts lectures into structured text and concise summaries, reducing learning time. It improves accuracy and knowledge retention by eliminating manual note-taking. Overall, it enhances learning efficiency by providing fast, reliable, and exam-focused content access.
