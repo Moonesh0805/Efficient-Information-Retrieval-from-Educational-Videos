@@ -44,12 +44,13 @@ IDE / Code Editor: Visual Studio Code (VS Code) recommended for development and 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/772b6204-0be5-4c42-85be-7dce4e683c81" />
 
 ### OUTPUT:
+Output 1 – Dashboard Overview Page
 <img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/52a850c3-20e1-468f-b76f-aa610faf42f6" />
-
+Output 2 – Storage Manager (Processed Lectures View)
 ![O2](https://github.com/user-attachments/assets/0ac2e56f-26d9-4e8c-b14a-50571c9e8fb6)
-
+Output 3 – Smart Notes & Video Playback Page
 <img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/9de14d89-96cd-4f2f-a1ca-808f219a0bbf" />
-
+Output 4 – Local Video Upload and Processing Pipeline Page
 <img width="1600" height="778" alt="image" src="https://github.com/user-attachments/assets/35045802-6252-41e8-8376-8336fd73ef30" />
 
 
